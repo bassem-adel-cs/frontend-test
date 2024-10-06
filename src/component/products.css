@@ -75,6 +75,9 @@ justify-content: center;
     align-items:flex-start;
     justify-content:space-between;
 }
+.info p{
+    margin:0 0 5px 0;
+}
 .simplephoto{
 display:flex;
 align-items:center;
@@ -94,6 +97,9 @@ margin-top:5px;
     width:40px;
     height:40px;
 
+}
+.heartphoto img{
+    width:100%;
 }
 .pagesbox{
     width:1406px;
@@ -160,7 +166,7 @@ form input{
   -o-border-radius: 4px  ;
 }
 .uploadphoto{
-    width:139px;
+    width:140px;
     height:44px;
     border-radius:4px;
     -webkit-border-radius:4px;
