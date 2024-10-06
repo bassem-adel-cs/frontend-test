@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/https//bassem-adel-cs.github.io/frontend-test/static/css/main.754fe196.css",
+    "main.css": "/https//bassem-adel-cs.github.io/frontend-test/static/css/main.d0e57b5d.css",
     "main.js": "/https//bassem-adel-cs.github.io/frontend-test/static/js/main.91708019.js",
     "static/js/453.ed3810f9.chunk.js": "/https//bassem-adel-cs.github.io/frontend-test/static/js/453.ed3810f9.chunk.js",
     "static/media/3.PNG": "/https//bassem-adel-cs.github.io/frontend-test/static/media/3.8767e84d7dbb53cb1475.PNG",
@@ -13,12 +13,12 @@
     "index.html": "/https//bassem-adel-cs.github.io/frontend-test/index.html",
     "static/media/arrow.PNG": "/https//bassem-adel-cs.github.io/frontend-test/static/media/arrow.2947c4dcad7a174b2f0f.PNG",
     "static/media/arrowtwo.PNG": "/https//bassem-adel-cs.github.io/frontend-test/static/media/arrowtwo.06930ae0e9b7f3e95ff9.PNG",
-    "main.754fe196.css.map": "/https//bassem-adel-cs.github.io/frontend-test/static/css/main.754fe196.css.map",
+    "main.d0e57b5d.css.map": "/https//bassem-adel-cs.github.io/frontend-test/static/css/main.d0e57b5d.css.map",
     "main.91708019.js.map": "/https//bassem-adel-cs.github.io/frontend-test/static/js/main.91708019.js.map",
     "453.ed3810f9.chunk.js.map": "/https//bassem-adel-cs.github.io/frontend-test/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.754fe196.css",
+    "static/css/main.d0e57b5d.css",
     "static/js/main.91708019.js"
   ]
 }
